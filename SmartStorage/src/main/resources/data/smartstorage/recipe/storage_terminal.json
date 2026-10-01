@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "GKG",
+    "PCP",
+    "PPP"
+  ],
+  "key": {
+    "G": "minecraft:gold_nugget",
+    "K": "minecraft:book",
+    "P": "#minecraft:planks",
+    "C": "minecraft:chest"
+  },
+  "result": {
+    "id": "smartstorage:storage_terminal",
+    "count": 1
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "front": "smartstorage:block/storage_terminal_front",
+    "side": "smartstorage:block/ledger_side",
+    "top": "smartstorage:block/ledger_top"
+  }
+}

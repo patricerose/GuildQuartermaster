@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "BAB",
+    "ECE",
+    "BGB"
+  ],
+  "key": {
+    "B": "minecraft:stone_bricks",
+    "A": "minecraft:amethyst_shard",
+    "E": "minecraft:ender_pearl",
+    "C": "minecraft:chest",
+    "G": "minecraft:gold_ingot"
+  },
+  "result": {
+    "id": "smartstorage:storage_core",
+    "count": 1
+  }
+}

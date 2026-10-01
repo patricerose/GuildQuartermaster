@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "GAG",
+    "AEA",
+    "GLG"
+  ],
+  "key": {
+    "G": "minecraft:glass",
+    "A": "minecraft:amethyst_shard",
+    "E": "minecraft:ender_eye",
+    "L": "smartstorage:storage_terminal"
+  },
+  "result": {
+    "id": "smartstorage:wireless_terminal",
+    "count": 1
+  }
+}

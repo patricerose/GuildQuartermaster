@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "smartstorage:block/storage_core"
+    }
+  }
+}

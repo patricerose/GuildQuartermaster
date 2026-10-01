@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "side": "smartstorage:block/storage_core_side",
+    "top": "smartstorage:block/storage_core_top",
+    "bottom": "smartstorage:block/storage_core_top"
+  }
+}

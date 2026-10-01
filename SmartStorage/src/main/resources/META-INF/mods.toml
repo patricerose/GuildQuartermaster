@@ -1,0 +1,24 @@
+modLoader="javafml"
+loaderVersion="[66,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="smartstorage"
+version="1.0.0"
+displayName="Guild Quartermaster"
+authors="Patrice Rose"
+description='''A cozy, magical storage guild. Enlist your chests to an Arcane Hearth with the Quartermaster's Quill and it files every item where it belongs (carrots with carrots, swords with swords). Browse and search everything from the Guild Ledger, or peer in from afar with a Scrying Orb.'''
+
+[[dependencies.smartstorage]]
+    modId="forge"
+    mandatory=true
+    versionRange="[66,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.smartstorage]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[26.3,26.4)"
+    ordering="NONE"
+    side="BOTH"

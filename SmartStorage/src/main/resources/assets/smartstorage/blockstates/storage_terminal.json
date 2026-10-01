@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "smartstorage:block/storage_terminal"
+    },
+    "facing=east": {
+      "model": "smartstorage:block/storage_terminal",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "smartstorage:block/storage_terminal",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "smartstorage:block/storage_terminal",
+      "y": 270
+    }
+  }
+}
