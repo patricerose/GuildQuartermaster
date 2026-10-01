@@ -1,4 +1,4 @@
-// Smart Storage - a Forge mod for Minecraft Java Edition 26.3
+// Adventurer's Packs - a Forge mod for Minecraft Java Edition 26.3
 // Based on the official Forge 26.3 MDK (Forge 66.0.8).
 
 plugins {
@@ -9,10 +9,10 @@ plugins {
 }
 
 version = '1.0.0'
-group = 'com.patricerose.smartstorage'
+group = 'com.patricerose.adventurepacks'
 
 base {
-    archivesName = 'smartstorage-26.3'
+    archivesName = 'adventurepacks-26.3'
 }
 
 // Minecraft 26.1+ runs on Java 25, so the mod targets Java 25.
